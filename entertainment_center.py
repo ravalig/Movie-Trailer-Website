@@ -8,7 +8,7 @@ wall_e = media.Movie("Wall_E ",
                      "https://www.youtube.com/watch?v=alIq_wG9FNk")
 
 ice_age = media.Movie("Ice Age",
-                      "https://upload.wikimedia.org/wikipedia/en/a/a9/Ice_Age.jpg",   # NOQA
+                      "https://upload.wikimedia.org/wikipedia/en/3/3c/Ice_Age_%282002_film%29_poster.jpg",   # NOQA
                       "https://www.youtube.com/watch?v=5utbt2Ycenw")
 
 frozen = media.Movie("Frozen",
